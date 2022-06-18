@@ -9,6 +9,6 @@ terraform {
     profile = "demo"
     region  = "us-east-1"
     key     = "terraform.tfstate"
-    bucket  = "terraform-state-bucket-cass88"
+    bucket  = "<YOUR_EXISTING_BUCKET_NAME>"
   }
 }

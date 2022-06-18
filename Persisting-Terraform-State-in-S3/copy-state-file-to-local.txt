@@ -1,0 +1,1 @@
+aws s3 cp s3://<YOUR_BUCKET_NAME>/terraform.tfstate .
